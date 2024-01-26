@@ -13,4 +13,4 @@ concurrency:
 
 jobs:
   validation:
-    uses: JeffersonLab/clas12-validation/.github/workflows/ci.yml@update-concurrency
+    uses: JeffersonLab/clas12-validation/.github/workflows/ci.yml@bump-actions
