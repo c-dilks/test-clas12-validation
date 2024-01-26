@@ -12,6 +12,5 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-
   validation:
-    uses: JeffersonLab/clas12-validation/.github/workflows/ci.yml@main
+    uses: JeffersonLab/clas12-validation/.github/workflows/ci.yml@b218a730d693e83359dfeb1e1fe6ef2536433d0c
